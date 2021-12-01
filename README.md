@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as Angular Developer
 - 🌱 I’m currently learning Block Chain (Ethereum,Solana ,web3.js) and Nodejs 
+-  I already experience with angular ,node js and spring boot 
 
 <!-- 
 - 👯 I’m looking to collaborate on ...
