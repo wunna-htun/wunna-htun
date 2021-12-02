@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 ___
 
-## Project and experience
+## Project and Experience
 
 
 ### Task Manager 
@@ -33,7 +33,7 @@ ___
 
 * https://github.com/wunna-htun/ionic-book-app
 
-## Customer app (Crud)
+## Customer App (Crud)
 
 * Frontend (angular )
 * https://github.com/wunna-htun/customer-angular
