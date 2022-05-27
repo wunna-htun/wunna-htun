@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -  Pls reach out to me for web application development.
 
 My website 
-https://wunna-htun.netlify.app/
+https://wunna-htun.github.io/
 
 ___
 
