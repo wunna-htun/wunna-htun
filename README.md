@@ -28,6 +28,8 @@ ___
 ### Task Manager 
 
  * Frontend Angular 
+ * React
+ * https://github.com/wunna-htun/react-task
 
  * Backend (node js)
  * https://github.com/wunna-htun/taskmgr-nodejs
