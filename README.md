@@ -9,9 +9,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as Angular Developer
+- 🔭 I’m currently working as Fullstack Developer
 - 🌱 I’m currently learning Block Chain (Ethereum,Solana ,web3.js) and Nodejs 
--  I already experience with angular ,node js and spring boot 
+-  I already experience with React , angular ,node js and spring boot 
 -  Pls reach out to me for web application development.
 
 My website 
